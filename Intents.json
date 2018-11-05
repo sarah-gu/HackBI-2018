@@ -1,0 +1,69 @@
+
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "brain scan",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": [
+                        "say it again",
+                        "repeat"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StartOverIntent",
+                    "samples": [
+                        "start over",
+                        "start"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "prompt_person",
+                    "slots": [
+                        {
+                            "name": "Person",
+                            "type": "Person"
+                        }
+                    ],
+                    "samples": [
+                        "scan {Person}",
+                        "tell me {Person}",
+                        "what did {Person} think",
+                        "tell me about {Person} ",
+                        "{Person}"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "Person",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "Sanjana"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Sarah"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
