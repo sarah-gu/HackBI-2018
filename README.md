@@ -1,6 +1,6 @@
 # HackBI-2018
 
-Winner of Best Hardware Hack at Hack Bishop Ireton 2018
+#### H4 Winner of Best Hardware Hack at Hack Bishop Ireton 2018
 
 Inspiration
 There is a huge issue in society where people who are speech impaired (7 million in the US alone) aren't able to communicate effectively.
