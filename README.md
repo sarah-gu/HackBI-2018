@@ -1,6 +1,6 @@
-# HackBI-2018
+# HackBI-2018 MuseBrainScan
 
-#### Winner of Best Hardware Hack at Hack Bishop Ireton 2018
+### Winner of Best Hardware Hack at Hack Bishop Ireton 2018
 
 ## Inspiration
 Disabilities like ALS, Stroke, and ADHD and many others cause speech impairment or even loss. This translates to over 7 million people in the US alone who aren't able to fully use their voice. Our hack hopes to use machine learning to give a voice to these affected people. 
